@@ -1,0 +1,64 @@
+{
+  "button": [
+    {
+      "name": "最新动态",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "最新动态",
+          "key": "activity"
+        },
+        {
+          "type": "view",
+          "name": "往期回顾",
+          "url": "http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MjM5Nzg1MzY1Nw==#wechat_webview_type=1&wechat_redirect"
+        }
+      ]
+    },
+    {
+      "name": "舞蹈课程",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "精彩剪辑",
+          "key": "record"
+        },
+        {
+          "type": "click",
+          "name": "课程介绍",
+          "key": "course"
+        },
+        {
+          "type": "click",
+          "name": "课表查询",
+          "key": "classes"
+        },
+        {
+          "type": "click",
+          "name": "在线报名",
+          "key": "apply"
+        }
+      ]
+    },
+    {
+      "name": "莱丽文化",
+      "sub_button": [
+        {
+          "type": "view",
+          "name": "莱丽商城",
+          "url": "http://weidian.com/?userid=432226881&wfr=c"
+        },
+        {
+          "type": "click",
+          "name": "关于我们",
+          "key": "about"
+        },
+        {
+          "type": "click",
+          "name": "商务合作",
+          "key": "cooperation"
+        }
+      ]
+    }
+  ]
+}
